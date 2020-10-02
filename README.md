@@ -6,3 +6,4 @@ Hw 1:
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 3) create a github account and a repository under it in the format
 ee241_name_surname
+4) Find 5 projects done with fpga (Basys3   based projects are preffered).
