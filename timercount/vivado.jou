@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Dec 23 12:34:38 2020
+# Process ID: 12724
+# Current directory: C:/Users/gsahi/Documents/GitHub/ee241fall2020/timercount
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12940 C:\Users\gsahi\Documents\GitHub\ee241fall2020\timercount\timercount.xpr
+# Log file: C:/Users/gsahi/Documents/GitHub/ee241fall2020/timercount/vivado.log
+# Journal file: C:/Users/gsahi/Documents/GitHub/ee241fall2020/timercount\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/gsahi/Documents/GitHub/ee241fall2020/timercount/timercount.xpr
+update_compile_order -fileset sources_1
+close [ open C:/Users/gsahi/Documents/GitHub/ee241fall2020/timercount/timercount.srcs/sources_1/new/flash2.v w ]
+add_files C:/Users/gsahi/Documents/GitHub/ee241fall2020/timercount/timercount.srcs/sources_1/new/flash2.v
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top flash2 [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1

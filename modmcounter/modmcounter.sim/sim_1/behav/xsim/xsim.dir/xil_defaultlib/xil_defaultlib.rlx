@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/gsahi/Documents/GitHub/ee242fall2020/modmcounter/modmcounter.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/gsahi/Documents/GitHub/ee242fall2020/modmcounter/modmcounter.srcs/sim_1/new/modMCounter_tb.v,1608291284,verilog,,,,modMCounter_tb,,,,,,,,
+C:/Users/gsahi/Documents/GitHub/ee242fall2020/modmcounter/modmcounter.srcs/sources_1/new/modMCounter.v,1608151029,verilog,,C:/Users/gsahi/Documents/GitHub/ee242fall2020/modmcounter/modmcounter.srcs/sim_1/new/modMCounter_tb.v,,modMCounter,,,,,,,,
+C:/Users/gsahi/Documents/GitHub/ee242fall2020/modmcounter/modmcounter.srcs/sources_1/new/modmcounter2.v,1608207914,verilog,,C:/Users/gsahi/Documents/GitHub/ee242fall2020/modmcounter/modmcounter.srcs/sim_1/new/modMCounter_tb.v,,modmcounter2,,,,,,,,
